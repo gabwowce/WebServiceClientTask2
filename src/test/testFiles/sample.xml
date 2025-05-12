@@ -1,0 +1,14 @@
+<ns2:getStudentsResponse xmlns:ns2="http://viko.eif.lt/gtamaseviciute/studentWebSerice">
+  <ns2:students>
+    <ns2:name>TestStudent</ns2:name>
+    <ns2:age>21</ns2:age>
+    <ns2:group>PI23S</ns2:group>
+    <ns2:active>true</ns2:active>
+    <ns2:averageGrade>10.0</ns2:averageGrade>
+    <ns2:gender>M</ns2:gender>
+    <ns2:subjects>
+      <ns2:title>Math</ns2:title>
+      <ns2:grade>10</ns2:grade>
+    </ns2:subjects>
+  </ns2:students>
+</ns2:getStudentsResponse>

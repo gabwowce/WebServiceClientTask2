@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<getStudentResponse xmlns="http://viko.eif.lt/gtamaseviciute/studentWebSerice">
+    <student>
+        <name>Marija</name>
+        <age>21</age>
+        <group>PI23S</group>
+        <averageGrade>7.3333335</averageGrade>
+        <active>true</active>
+        <gender>F</gender>
+        <subjects>
+            <title>Diskrečioji matematika</title>
+            <grade>5</grade>
+        </subjects>
+        <subjects>
+            <title>Vadyba</title>
+            <grade>9</grade>
+        </subjects>
+        <subjects>
+            <title>Informacijos sistemos</title>
+            <grade>8</grade>
+        </subjects>
+    </student>
+</getStudentResponse>
